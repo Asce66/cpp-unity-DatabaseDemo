@@ -1,0 +1,1555 @@
+fileFormatVersion: 2
+guid: 1f758ec661cd10f4b889c713e4d957cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2381150941333895535
+    second: easy UI emerald - default_0
+  - first:
+      213: -8781312371369807265
+    second: easy UI emerald - default_1
+  - first:
+      213: -4265357786549414444
+    second: easy UI emerald - default_2
+  - first:
+      213: 6072452681857501243
+    second: easy UI emerald - default_3
+  - first:
+      213: 7613017460373157206
+    second: easy UI emerald - default_4
+  - first:
+      213: 3975002483501745958
+    second: easy UI emerald - default_5
+  - first:
+      213: -9186081588151340773
+    second: easy UI emerald - default_6
+  - first:
+      213: -8626880026412454340
+    second: easy UI emerald - default_7
+  - first:
+      213: 4714044788737679405
+    second: easy UI emerald - default_8
+  - first:
+      213: -1599891900572280236
+    second: easy UI emerald - default_9
+  - first:
+      213: -8528012815859067486
+    second: easy UI emerald - default_10
+  - first:
+      213: -2061295024155171027
+    second: easy UI emerald - default_11
+  - first:
+      213: 8209185162297524014
+    second: easy UI emerald - default_12
+  - first:
+      213: 7199439671743966749
+    second: easy UI emerald - default_13
+  - first:
+      213: -2879259782954967468
+    second: easy UI emerald - default_14
+  - first:
+      213: 6268954397770654928
+    second: easy UI emerald - default_15
+  - first:
+      213: 2688414009111660256
+    second: easy UI emerald - default_16
+  - first:
+      213: -456262899548188915
+    second: easy UI emerald - default_17
+  - first:
+      213: 6009527593514832355
+    second: easy UI emerald - default_18
+  - first:
+      213: 3654736076518605348
+    second: easy UI emerald - default_19
+  - first:
+      213: 1866609884859102138
+    second: easy UI emerald - default_20
+  - first:
+      213: 620281200831395293
+    second: easy UI emerald - default_21
+  - first:
+      213: -8670104713454860814
+    second: easy UI emerald - default_22
+  - first:
+      213: 3945741100829456358
+    second: easy UI emerald - default_23
+  - first:
+      213: -3976749020581702970
+    second: easy UI emerald - default_24
+  - first:
+      213: -7108470495474661494
+    second: easy UI emerald - default_25
+  - first:
+      213: 4642509622808015580
+    second: easy UI emerald - default_26
+  - first:
+      213: 935221559301831565
+    second: easy UI emerald - default_27
+  - first:
+      213: -6319076178452379979
+    second: easy UI emerald - default_28
+  - first:
+      213: -3112815037807690872
+    second: easy UI emerald - default_29
+  - first:
+      213: -6897939582838129095
+    second: easy UI emerald - default_30
+  - first:
+      213: 578179021878396986
+    second: easy UI emerald - default_31
+  - first:
+      213: -3137991898243871219
+    second: easy UI emerald - default_32
+  - first:
+      213: 6334703173315759134
+    second: easy UI emerald - default_33
+  - first:
+      213: -6599369763235909028
+    second: easy UI emerald - default_34
+  - first:
+      213: -8470693101743424162
+    second: easy UI emerald - default_35
+  - first:
+      213: -7032018321711624051
+    second: easy UI emerald - default_36
+  - first:
+      213: -2385763899758521532
+    second: easy UI emerald - default_37
+  - first:
+      213: 5736884464615809207
+    second: easy UI emerald - default_38
+  - first:
+      213: 3203567000805120018
+    second: easy UI emerald - default_39
+  - first:
+      213: 5794445763764981686
+    second: easy UI emerald - default_40
+  - first:
+      213: 2335737926079667437
+    second: easy UI emerald - default_41
+  - first:
+      213: 598576816481340360
+    second: easy UI emerald - default_42
+  - first:
+      213: 2804292779455388239
+    second: easy UI emerald - default_43
+  - first:
+      213: 8202083017164156208
+    second: easy UI emerald - default_44
+  - first:
+      213: -6866529972132209839
+    second: easy UI emerald - default_45
+  - first:
+      213: -4516022254814833440
+    second: easy UI emerald - default_46
+  - first:
+      213: 4038455906328856123
+    second: easy UI emerald - default_47
+  - first:
+      213: -8564632966884396998
+    second: easy UI emerald - default_48
+  - first:
+      213: -2932188730554582778
+    second: easy UI emerald - default_49
+  - first:
+      213: -6201266785507956100
+    second: easy UI emerald - default_50
+  - first:
+      213: -6708924014617413786
+    second: easy UI emerald - default_51
+  - first:
+      213: -7298473160124282574
+    second: easy UI emerald - default_52
+  - first:
+      213: 1673843892337123757
+    second: easy UI emerald - default_53
+  - first:
+      213: -7716520376554031647
+    second: easy UI emerald - default_54
+  - first:
+      213: -4780466266627167563
+    second: easy UI emerald - default_55
+  - first:
+      213: -7951267153240954413
+    second: easy UI emerald - default_56
+  - first:
+      213: 2957857156527063830
+    second: easy UI emerald - default_57
+  - first:
+      213: 1382203921874883759
+    second: easy UI emerald - default_58
+  - first:
+      213: -1406634525646631815
+    second: easy UI emerald - default_59
+  - first:
+      213: -8994701844320579245
+    second: easy UI emerald - default_60
+  - first:
+      213: 5198904146590468714
+    second: easy UI emerald - default_61
+  - first:
+      213: 6237182191541825352
+    second: easy UI emerald - default_62
+  - first:
+      213: -4599990300776205338
+    second: easy UI emerald - default_63
+  - first:
+      213: 4600540392658658154
+    second: easy UI emerald - default_64
+  - first:
+      213: -6582930099667128367
+    second: easy UI emerald - default_65
+  - first:
+      213: -8293883785907827639
+    second: easy UI emerald - default_66
+  - first:
+      213: -1199035517833664644
+    second: easy UI emerald - default_67
+  - first:
+      213: 4755498725939154832
+    second: easy UI emerald - default_68
+  - first:
+      213: -1481158256628798150
+    second: easy UI emerald - default_69
+  - first:
+      213: 4795643364627700247
+    second: easy UI emerald - default_70
+  - first:
+      213: -4306822676992276295
+    second: easy UI emerald - default_71
+  - first:
+      213: -1907828727092146118
+    second: easy UI emerald - default_72
+  - first:
+      213: -8500906830328492831
+    second: easy UI emerald - default_73
+  - first:
+      213: 3104139173578713269
+    second: easy UI emerald - default_74
+  - first:
+      213: -6072441062412690372
+    second: easy UI emerald - default_75
+  - first:
+      213: 7160355588007139602
+    second: easy UI emerald - default_76
+  - first:
+      213: 8065209297398716220
+    second: easy UI emerald - default_77
+  - first:
+      213: 1033810049247102945
+    second: easy UI emerald - default_78
+  - first:
+      213: 2745826366855512555
+    second: easy UI emerald - default_79
+  - first:
+      213: 1319325277489710727
+    second: easy UI emerald - default_80
+  - first:
+      213: 8828347598687555049
+    second: easy UI emerald - default_81
+  - first:
+      213: 3400227595531633905
+    second: easy UI emerald - default_82
+  - first:
+      213: -8037667322739602186
+    second: easy UI emerald - default_83
+  - first:
+      213: -3639324714614463524
+    second: easy UI emerald - default_84
+  - first:
+      213: 5026590518985523453
+    second: easy UI emerald - default_85
+  - first:
+      213: 3773428595156931045
+    second: easy UI emerald - default_86
+  - first:
+      213: -4295804009695311093
+    second: easy UI emerald - default_87
+  - first:
+      213: 5938131316372411852
+    second: easy UI emerald - default_88
+  - first:
+      213: 7041623531544060460
+    second: easy UI emerald - default_89
+  - first:
+      213: -5494025900515307810
+    second: easy UI emerald - default_90
+  - first:
+      213: -5860355344167334698
+    second: easy UI emerald - default_91
+  - first:
+      213: 7795327291864152336
+    second: easy UI emerald - default_92
+  - first:
+      213: 1738930745876811607
+    second: easy UI emerald - default_93
+  - first:
+      213: 3234876533057842061
+    second: easy UI emerald - default_94
+  - first:
+      213: -2171484871815465790
+    second: easy UI emerald - default_95
+  - first:
+      213: -1960491715969163289
+    second: easy UI emerald - default_96
+  - first:
+      213: 9198318750091915012
+    second: easy UI emerald - default_97
+  - first:
+      213: -929970066415580323
+    second: easy UI emerald - default_98
+  - first:
+      213: -7398282583292306694
+    second: easy UI emerald - default_99
+  - first:
+      213: 8390225504995251466
+    second: easy UI emerald - default_100
+  - first:
+      213: 8420013441782072211
+    second: easy UI emerald - default_101
+  - first:
+      213: -2800199571924256155
+    second: easy UI emerald - default_102
+  - first:
+      213: 2883061175312718945
+    second: easy UI emerald - default_103
+  - first:
+      213: 600088354991384580
+    second: easy UI emerald - default_104
+  - first:
+      213: -2763527089517687330
+    second: easy UI emerald - default_105
+  - first:
+      213: -5291532306354553542
+    second: easy UI emerald - default_106
+  - first:
+      213: -4141157059134350836
+    second: easy UI emerald - default_107
+  - first:
+      213: -8310685549317653845
+    second: easy UI emerald - default_108
+  - first:
+      213: -3001802843616147590
+    second: easy UI emerald - default_109
+  - first:
+      213: 8618436291037785041
+    second: easy UI emerald - default_110
+  - first:
+      213: -6231219357774254904
+    second: easy UI emerald - default_111
+  - first:
+      213: -5930766556640436329
+    second: easy UI emerald - default_112
+  - first:
+      213: -4708021915422840283
+    second: easy UI emerald - default_113
+  - first:
+      213: -822342074416399477
+    second: easy UI emerald - default_114
+  - first:
+      213: 301361819276272110
+    second: easy UI emerald - default_115
+  - first:
+      213: 8299169556969901208
+    second: easy UI emerald - default_116
+  - first:
+      213: -7224895114171263221
+    second: easy UI emerald - default_117
+  - first:
+      213: 8286600115564642452
+    second: easy UI emerald - default_118
+  - first:
+      213: -8652975924812003619
+    second: easy UI emerald - default_119
+  - first:
+      213: 5488587581639368475
+    second: easy UI emerald - default_120
+  - first:
+      213: 9051083236314786118
+    second: easy UI emerald - default_121
+  - first:
+      213: -4536893915001277303
+    second: easy UI emerald - default_122
+  - first:
+      213: 3465131478072597744
+    second: easy UI emerald - default_123
+  - first:
+      213: -2610640761018801802
+    second: easy UI emerald - default_124
+  - first:
+      213: -4652398036887499465
+    second: easy UI emerald - default_125
+  - first:
+      213: -6951799008478756593
+    second: easy UI emerald - default_126
+  - first:
+      213: -3462008886617090702
+    second: easy UI emerald - default_127
+  - first:
+      213: 3288474516039356431
+    second: easy UI emerald - default_128
+  - first:
+      213: -6917830256546714426
+    second: easy UI emerald - default_129
+  - first:
+      213: -3337877148302584618
+    second: easy UI emerald - default_130
+  - first:
+      213: 1724894799375642154
+    second: easy UI emerald - default_131
+  - first:
+      213: -1504710402175544107
+    second: easy UI emerald - default_132
+  - first:
+      213: -7148500608226305892
+    second: easy UI emerald - default_133
+  - first:
+      213: -675143277128497859
+    second: easy UI emerald - default_134
+  - first:
+      213: -6600844325698313506
+    second: easy UI emerald - default_135
+  - first:
+      213: 6462399422646688502
+    second: easy UI emerald - default_136
+  - first:
+      213: -3621603299138760079
+    second: easy UI emerald - default_137
+  - first:
+      213: 1794334006343127915
+    second: easy UI emerald - default_138
+  - first:
+      213: -1435425907751829977
+    second: easy UI emerald - default_139
+  - first:
+      213: -7424607588020676592
+    second: easy UI emerald - default_140
+  - first:
+      213: 2766540601297291210
+    second: easy UI emerald - default_141
+  - first:
+      213: -1766624740770526358
+    second: easy UI emerald - default_142
+  - first:
+      213: 8392788266185489614
+    second: easy UI emerald - default_143
+  - first:
+      213: 1917622537636113926
+    second: easy UI emerald - default_144
+  - first:
+      213: -5980325391415041858
+    second: easy UI emerald - default_145
+  - first:
+      213: 3457959232738736762
+    second: easy UI emerald - default_146
+  - first:
+      213: -8048678756513944623
+    second: easy UI emerald - default_147
+  - first:
+      213: 2279168325240312977
+    second: easy UI emerald - default_148
+  - first:
+      213: 1199107835126851983
+    second: easy UI emerald - default_149
+  - first:
+      213: 1465668243574155922
+    second: easy UI emerald - default_150
+  - first:
+      213: -3378157510655721135
+    second: easy UI emerald - default_151
+  - first:
+      213: 3129391380137450874
+    second: easy UI emerald - default_152
+  - first:
+      213: -6428567088484914850
+    second: easy UI emerald - default_153
+  - first:
+      213: 5571749271641936129
+    second: easy UI emerald - default_154
+  - first:
+      213: 2930871296531548869
+    second: easy UI emerald - default_155
+  - first:
+      213: -3226173252436123749
+    second: easy UI emerald - default_156
+  - first:
+      213: 5640731139296890123
+    second: easy UI emerald - default_157
+  - first:
+      213: 4757653397291888719
+    second: easy UI emerald - default_158
+  - first:
+      213: -5676464595090331539
+    second: easy UI emerald - default_159
+  - first:
+      213: 5594812705975638136
+    second: easy UI emerald - default_160
+  - first:
+      213: 8017258583385579524
+    second: easy UI emerald - default_161
+  - first:
+      213: -9101693715554196843
+    second: easy UI emerald - default_162
+  - first:
+      213: 7821149869526359882
+    second: easy UI emerald - default_163
+  - first:
+      213: -7085950990548409596
+    second: easy UI emerald - default_164
+  - first:
+      213: 3944139439104698547
+    second: easy UI emerald - default_165
+  - first:
+      213: 8373450664804550862
+    second: easy UI emerald - default_166
+  - first:
+      213: 1132241980579974535
+    second: easy UI emerald - default_167
+  - first:
+      213: 4827033947974837743
+    second: easy UI emerald - default_168
+  - first:
+      213: 4351397739353741253
+    second: easy UI emerald - default_169
+  - first:
+      213: 6430520844364739603
+    second: easy UI emerald - default_170
+  - first:
+      213: 1125818901954800295
+    second: easy UI emerald - default_171
+  - first:
+      213: -5999202976730975096
+    second: easy UI emerald - default_172
+  - first:
+      213: -1788493734463695515
+    second: easy UI emerald - default_173
+  - first:
+      213: -6081076941125786053
+    second: easy UI emerald - default_174
+  - first:
+      213: 5323600200311766622
+    second: easy UI emerald - default_175
+  - first:
+      213: 5865603727608180183
+    second: easy UI emerald - default_176
+  - first:
+      213: -3126537189017351374
+    second: easy UI emerald - default_177
+  - first:
+      213: 7632070089045418068
+    second: easy UI emerald - default_178
+  - first:
+      213: -2477025464697526993
+    second: easy UI emerald - default_179
+  - first:
+      213: -5858384323851754178
+    second: easy UI emerald - default_180
+  - first:
+      213: 8154424354138310457
+    second: easy UI emerald - default_181
+  - first:
+      213: -4525095437283696800
+    second: easy UI emerald - default_182
+  - first:
+      213: 8268974495354119756
+    second: easy UI emerald - default_183
+  - first:
+      213: 578791286550609899
+    second: easy UI emerald - default_184
+  - first:
+      213: 4552816574444214537
+    second: easy UI emerald - default_185
+  - first:
+      213: 3024450370401984925
+    second: easy UI emerald - default_186
+  - first:
+      213: -2998068574196776164
+    second: easy UI emerald - default_187
+  - first:
+      213: 74998717590036120
+    second: easy UI emerald - default_188
+  - first:
+      213: 7391000784329628238
+    second: easy UI emerald - default_189
+  - first:
+      213: 3094419699864988437
+    second: easy UI emerald - default_190
+  - first:
+      213: -5918315557139529049
+    second: easy UI emerald - default_191
+  - first:
+      213: 2701454942482535604
+    second: easy UI emerald - default_192
+  - first:
+      213: -2417681980293652968
+    second: easy UI emerald - default_193
+  - first:
+      213: -2590983689475527813
+    second: easy UI emerald - default_194
+  - first:
+      213: -4753446909057643765
+    second: easy UI emerald - default_195
+  - first:
+      213: -775998612092746218
+    second: easy UI emerald - default_196
+  - first:
+      213: 2060977100736913038
+    second: easy UI emerald - default_197
+  - first:
+      213: -7873880867368932252
+    second: easy UI emerald - default_198
+  - first:
+      213: -4949419380570287496
+    second: easy UI emerald - default_199
+  - first:
+      213: 4913458575392976846
+    second: easy UI emerald - default_200
+  - first:
+      213: -1920437543954172816
+    second: easy UI emerald - default_201
+  - first:
+      213: 2822550153640635687
+    second: easy UI emerald - default_202
+  - first:
+      213: -5864990563148335255
+    second: easy UI emerald - default_203
+  - first:
+      213: -5127735447159410095
+    second: easy UI emerald - default_204
+  - first:
+      213: 2252441494778694897
+    second: easy UI emerald - default_205
+  - first:
+      213: 8715544612904341733
+    second: easy UI emerald - default_206
+  - first:
+      213: 7387907547603760707
+    second: easy UI emerald - default_207
+  - first:
+      213: -1012373026333058073
+    second: easy UI emerald - default_208
+  - first:
+      213: 6274560323350457820
+    second: easy UI emerald - default_209
+  - first:
+      213: 4893411398989066787
+    second: easy UI emerald - default_210
+  - first:
+      213: -8257568817182103186
+    second: easy UI emerald - default_211
+  - first:
+      213: 9196493952204037256
+    second: easy UI emerald - default_212
+  - first:
+      213: 1068559929122633651
+    second: easy UI emerald - default_213
+  - first:
+      213: 1582917515970574533
+    second: easy UI emerald - default_214
+  - first:
+      213: 35343658560329775
+    second: easy UI emerald - default_215
+  - first:
+      213: 4069243079083689283
+    second: easy UI emerald - default_216
+  - first:
+      213: 5257785955857328786
+    second: easy UI emerald - default_217
+  - first:
+      213: -8817197785211468818
+    second: easy UI emerald - default_218
+  - first:
+      213: -8327552086178119824
+    second: easy UI emerald - default_219
+  - first:
+      213: 8699314011412936981
+    second: easy UI emerald - default_220
+  - first:
+      213: 5894797764909956193
+    second: easy UI emerald - default_221
+  - first:
+      213: 4568583141790310588
+    second: easy UI emerald - default_222
+  - first:
+      213: -4580928685349130481
+    second: easy UI emerald - default_223
+  - first:
+      213: 3407356850104091465
+    second: easy UI emerald - default_224
+  - first:
+      213: 5625111305624325721
+    second: easy UI emerald - default_225
+  - first:
+      213: 21878460206175607
+    second: easy UI emerald - default_226
+  - first:
+      213: 2099906022775459092
+    second: easy UI emerald - default_227
+  - first:
+      213: 932570335981677731
+    second: easy UI emerald - default_228
+  - first:
+      213: 3789851714051292251
+    second: easy UI emerald - default_229
+  - first:
+      213: 8148698066122266470
+    second: easy UI emerald - default_230
+  - first:
+      213: -20502698406819434
+    second: easy UI emerald - default_231
+  - first:
+      213: -5749171193541334269
+    second: easy UI emerald - default_232
+  - first:
+      213: -8552144644873036298
+    second: easy UI emerald - default_233
+  - first:
+      213: -3381043509927825475
+    second: easy UI emerald - default_234
+  - first:
+      213: 3875881934469029119
+    second: easy UI emerald - default_235
+  - first:
+      213: 2081455377025084128
+    second: easy UI emerald - default_236
+  - first:
+      213: -3914667982389112710
+    second: easy UI emerald - default_237
+  - first:
+      213: 1802993840159050708
+    second: easy UI emerald - default_238
+  - first:
+      213: 662178485509565039
+    second: easy UI emerald - default_239
+  - first:
+      213: 1019260848406840283
+    second: easy UI emerald - default_240
+  - first:
+      213: 1113676220943725415
+    second: easy UI emerald - default_241
+  - first:
+      213: 7990439323832858842
+    second: easy UI emerald - default_242
+  - first:
+      213: 557465591402685333
+    second: easy UI emerald - default_243
+  - first:
+      213: 524743013979464289
+    second: easy UI emerald - default_244
+  - first:
+      213: -6862800960774400480
+    second: easy UI emerald - default_245
+  - first:
+      213: 3297827121498408774
+    second: easy UI emerald - default_246
+  - first:
+      213: 4229516121650108013
+    second: easy UI emerald - default_247
+  - first:
+      213: 2028732538253758691
+    second: easy UI emerald - default_248
+  - first:
+      213: -6128944994860671456
+    second: easy UI emerald - default_249
+  - first:
+      213: 4325783967778634925
+    second: easy UI emerald - default_250
+  - first:
+      213: -580562556778383963
+    second: easy UI emerald - default_251
+  - first:
+      213: -6331370066654478391
+    second: easy UI emerald - default_252
+  - first:
+      213: -1928566687838524200
+    second: easy UI emerald - default_253
+  - first:
+      213: -925092835890307771
+    second: easy UI emerald - default_254
+  - first:
+      213: 3215997686786756426
+    second: easy UI emerald - default_255
+  - first:
+      213: -3395903141561335680
+    second: easy UI emerald - default_256
+  - first:
+      213: -7800504549356568307
+    second: easy UI emerald - default_257
+  - first:
+      213: 6076820793726309771
+    second: easy UI emerald - default_258
+  - first:
+      213: 3720862570010380019
+    second: easy UI emerald - default_259
+  - first:
+      213: -8038070638136708057
+    second: easy UI emerald - default_260
+  - first:
+      213: -2109565026269072630
+    second: easy UI emerald - default_261
+  - first:
+      213: 8650221478973436992
+    second: easy UI emerald - default_262
+  - first:
+      213: 6745796825439783832
+    second: easy UI emerald - default_263
+  - first:
+      213: 1947644232558330354
+    second: easy UI emerald - default_264
+  - first:
+      213: 1866374601842730795
+    second: easy UI emerald - default_265
+  - first:
+      213: 599042309792664079
+    second: easy UI emerald - default_266
+  - first:
+      213: -6330961506006484246
+    second: easy UI emerald - default_267
+  - first:
+      213: -452484909629955456
+    second: easy UI emerald - default_268
+  - first:
+      213: 7647559923127922512
+    second: easy UI emerald - default_269
+  - first:
+      213: -1748547717001140995
+    second: easy UI emerald - default_270
+  - first:
+      213: -3757370856740626498
+    second: easy UI emerald - default_271
+  - first:
+      213: -2437982134377593768
+    second: easy UI emerald - default_272
+  - first:
+      213: -2828361989918434522
+    second: easy UI emerald - default_273
+  - first:
+      213: 8587647147848148326
+    second: easy UI emerald - default_274
+  - first:
+      213: 206805827165015144
+    second: easy UI emerald - default_275
+  - first:
+      213: 292132245961335088
+    second: easy UI emerald - default_276
+  - first:
+      213: -8962215576282471981
+    second: easy UI emerald - default_277
+  - first:
+      213: -6390019590469411364
+    second: easy UI emerald - default_278
+  - first:
+      213: 4141390030568666140
+    second: easy UI emerald - default_279
+  - first:
+      213: -5382277363737800728
+    second: easy UI emerald - default_280
+  - first:
+      213: 8653229277797837829
+    second: easy UI emerald - default_281
+  - first:
+      213: 7909666589589416638
+    second: easy UI emerald - default_282
+  - first:
+      213: 1208188441306504234
+    second: easy UI emerald - default_283
+  - first:
+      213: -6940203036382053290
+    second: easy UI emerald - default_284
+  - first:
+      213: -1076200960241017319
+    second: easy UI emerald - default_285
+  - first:
+      213: 2550955521574420405
+    second: easy UI emerald - default_286
+  - first:
+      213: 4468697815395887707
+    second: easy UI emerald - default_287
+  - first:
+      213: -4465247691029494479
+    second: easy UI emerald - default_288
+  - first:
+      213: 7493684320615486251
+    second: easy UI emerald - default_289
+  - first:
+      213: -4390097552285413201
+    second: easy UI emerald - default_290
+  - first:
+      213: 7387215018496056209
+    second: easy UI emerald - default_291
+  - first:
+      213: -2273893612542778442
+    second: easy UI emerald - default_292
+  - first:
+      213: -3191776647511691448
+    second: easy UI emerald - default_293
+  - first:
+      213: 2576420686802564520
+    second: easy UI emerald - default_294
+  - first:
+      213: 6354650748155592148
+    second: easy UI emerald - default_295
+  - first:
+      213: -9086892024097304467
+    second: easy UI emerald - default_296
+  - first:
+      213: -2734203160321234674
+    second: easy UI emerald - default_297
+  - first:
+      213: 7602466812685882607
+    second: easy UI emerald - default_298
+  - first:
+      213: -7480090888825618147
+    second: easy UI emerald - default_299
+  - first:
+      213: 5650129108879045078
+    second: easy UI emerald - default_300
+  - first:
+      213: -4471430005758329374
+    second: easy UI emerald - default_301
+  - first:
+      213: -3343324054681919529
+    second: easy UI emerald - default_302
+  - first:
+      213: -1016653621256415507
+    second: easy UI emerald - default_303
+  - first:
+      213: 1126084679536834640
+    second: easy UI emerald - default_304
+  - first:
+      213: -367998384077837100
+    second: easy UI emerald - default_305
+  - first:
+      213: -5693885726063069783
+    second: easy UI emerald - default_306
+  - first:
+      213: -1753933761067163396
+    second: easy UI emerald - default_307
+  - first:
+      213: -3999245456932580371
+    second: easy UI emerald - default_308
+  - first:
+      213: -9069357405933913249
+    second: easy UI emerald - default_309
+  - first:
+      213: -3225825860992672294
+    second: easy UI emerald - default_310
+  - first:
+      213: -28050428915439192
+    second: easy UI emerald - default_311
+  - first:
+      213: -8193898130768769154
+    second: easy UI emerald - default_312
+  - first:
+      213: -189356289275535052
+    second: easy UI emerald - default_313
+  - first:
+      213: 2438865520871226022
+    second: easy UI emerald - default_314
+  - first:
+      213: 6512318835544341295
+    second: easy UI emerald - default_315
+  - first:
+      213: 4952737325418841349
+    second: easy UI emerald - default_316
+  - first:
+      213: -3954643162066186641
+    second: easy UI emerald - default_317
+  - first:
+      213: -2040181273217670716
+    second: easy UI emerald - default_318
+  - first:
+      213: 7754341597987875933
+    second: easy UI emerald - default_319
+  - first:
+      213: 889418622238012422
+    second: easy UI emerald - default_320
+  - first:
+      213: -8889694956734103809
+    second: easy UI emerald - default_321
+  - first:
+      213: 8585094594324304506
+    second: easy UI emerald - default_322
+  - first:
+      213: -7212966024035318406
+    second: easy UI emerald - default_323
+  - first:
+      213: -2570925483203839600
+    second: easy UI emerald - default_324
+  - first:
+      213: 6636556377591972168
+    second: easy UI emerald - default_325
+  - first:
+      213: -7882603525254318612
+    second: easy UI emerald - default_326
+  - first:
+      213: 7047804687776699936
+    second: easy UI emerald - default_327
+  - first:
+      213: -3520253026421082714
+    second: easy UI emerald - default_328
+  - first:
+      213: -2851704268973207163
+    second: easy UI emerald - default_329
+  - first:
+      213: 7080890061951144820
+    second: easy UI emerald - default_330
+  - first:
+      213: 2074286001655097700
+    second: easy UI emerald - default_331
+  - first:
+      213: 634373407202640596
+    second: easy UI emerald - default_332
+  - first:
+      213: -2292931064252605154
+    second: easy UI emerald - default_333
+  - first:
+      213: -1616067913454757128
+    second: easy UI emerald - default_334
+  - first:
+      213: -8333344243955532760
+    second: easy UI emerald - default_335
+  - first:
+      213: 4775325030006931020
+    second: easy UI emerald - default_336
+  - first:
+      213: 5317444680704322720
+    second: easy UI emerald - default_337
+  - first:
+      213: 3280245653339269039
+    second: easy UI emerald - default_338
+  - first:
+      213: -2574138942846887607
+    second: easy UI emerald - default_339
+  - first:
+      213: -4369809243899426353
+    second: easy UI emerald - default_340
+  - first:
+      213: 3307462625546204300
+    second: easy UI emerald - default_341
+  - first:
+      213: 3586785728028891866
+    second: easy UI emerald - default_342
+  - first:
+      213: 3398876792978935504
+    second: easy UI emerald - default_343
+  - first:
+      213: 1603269316130082166
+    second: easy UI emerald - default_344
+  - first:
+      213: 6100653034627072561
+    second: easy UI emerald - default_345
+  - first:
+      213: -4386431162395853127
+    second: easy UI emerald - default_346
+  - first:
+      213: 9093946460623231938
+    second: easy UI emerald - default_347
+  - first:
+      213: -3201896072840730926
+    second: easy UI emerald - default_348
+  - first:
+      213: 8167838919112335421
+    second: easy UI emerald - default_349
+  - first:
+      213: -3608074603110465949
+    second: easy UI emerald - default_350
+  - first:
+      213: 6723466538791680813
+    second: easy UI emerald - default_351
+  - first:
+      213: 1802776900070156984
+    second: easy UI emerald - default_352
+  - first:
+      213: 7703909516044081922
+    second: easy UI emerald - default_353
+  - first:
+      213: -7357416210926100683
+    second: easy UI emerald - default_354
+  - first:
+      213: -2571891853095832694
+    second: easy UI emerald - default_355
+  - first:
+      213: -2612984110356191466
+    second: easy UI emerald - default_356
+  - first:
+      213: 2844191186338702405
+    second: easy UI emerald - default_357
+  - first:
+      213: -5922327962906357256
+    second: easy UI emerald - default_358
+  - first:
+      213: -2140106378408893997
+    second: easy UI emerald - default_359
+  - first:
+      213: 7144638530544673592
+    second: easy UI emerald - default_360
+  - first:
+      213: -382178454167970033
+    second: easy UI emerald - default_361
+  - first:
+      213: 2919868223711856746
+    second: easy UI emerald - default_362
+  - first:
+      213: -6130608080631520511
+    second: easy UI emerald - default_363
+  - first:
+      213: -8195589744468041562
+    second: easy UI emerald - default_364
+  - first:
+      213: -6050965025696019138
+    second: easy UI emerald - default_365
+  - first:
+      213: -3233749134667172776
+    second: easy UI emerald - default_366
+  - first:
+      213: 1355761177032367830
+    second: easy UI emerald - default_367
+  - first:
+      213: 8887815603734704226
+    second: easy UI emerald - default_368
+  - first:
+      213: 7063320266734833270
+    second: easy UI emerald - default_369
+  - first:
+      213: 3078032756756962744
+    second: easy UI emerald - default_370
+  - first:
+      213: -6408464911636675045
+    second: easy UI emerald - default_371
+  - first:
+      213: -2527278373870962075
+    second: easy UI emerald - default_372
+  - first:
+      213: 4786154025687639122
+    second: easy UI emerald - default_373
+  - first:
+      213: 3867661827466151912
+    second: easy UI emerald - default_374
+  - first:
+      213: 6192027749468478951
+    second: easy UI emerald - default_375
+  - first:
+      213: -4136229015973304669
+    second: easy UI emerald - default_376
+  - first:
+      213: -4476258830873913750
+    second: easy UI emerald - default_377
+  - first:
+      213: -4880295371894521077
+    second: easy UI emerald - default_378
+  - first:
+      213: 5814282952509927183
+    second: easy UI emerald - default_379
+  - first:
+      213: 6612383428613808208
+    second: easy UI emerald - default_380
+  - first:
+      213: -6964039308512673446
+    second: easy UI emerald - default_381
+  - first:
+      213: -7151713355346188687
+    second: easy UI emerald - default_382
+  - first:
+      213: 8401151048486387858
+    second: easy UI emerald - default_383
+  - first:
+      213: 7807634941187689059
+    second: easy UI emerald - default_384
+  - first:
+      213: 7061103965866957728
+    second: easy UI emerald - default_385
+  - first:
+      213: -3722308341299375230
+    second: easy UI emerald - default_386
+  - first:
+      213: -8917766308653043042
+    second: easy UI emerald - default_387
+  - first:
+      213: 5812536344393293009
+    second: easy UI emerald - default_388
+  - first:
+      213: -4798114945665323455
+    second: easy UI emerald - default_389
+  - first:
+      213: -3630351495456162931
+    second: easy UI emerald - default_390
+  - first:
+      213: -7056624790028726917
+    second: easy UI emerald - default_391
+  - first:
+      213: 5336813716721466084
+    second: easy UI emerald - default_392
+  - first:
+      213: -2966631457849448191
+    second: easy UI emerald - default_393
+  - first:
+      213: -2400760571241749997
+    second: easy UI emerald - default_394
+  - first:
+      213: 4891315058384188111
+    second: easy UI emerald - default_395
+  - first:
+      213: -5381688577687411802
+    second: easy UI emerald - default_396
+  - first:
+      213: 1939004787675389965
+    second: easy UI emerald - default_397
+  - first:
+      213: 7869337016353348363
+    second: easy UI emerald - default_398
+  - first:
+      213: 8876945049219088132
+    second: easy UI emerald - default_399
+  - first:
+      213: 751814644911738358
+    second: easy UI emerald - default_400
+  - first:
+      213: -6556057972586001941
+    second: easy UI emerald - default_401
+  - first:
+      213: 8208469155394161029
+    second: easy UI emerald - default_402
+  - first:
+      213: 2332623059929839173
+    second: easy UI emerald - default_403
+  - first:
+      213: -4695716844775429614
+    second: easy UI emerald - default_404
+  - first:
+      213: 3271626297740658006
+    second: easy UI emerald - default_405
+  - first:
+      213: -6984809158298798363
+    second: easy UI emerald - default_406
+  - first:
+      213: 5915010595825464395
+    second: easy UI emerald - default_407
+  - first:
+      213: -7709767206425070326
+    second: easy UI emerald - default_408
+  - first:
+      213: 7727175646784887789
+    second: easy UI emerald - default_409
+  - first:
+      213: 7086688507301121663
+    second: easy UI emerald - default_410
+  - first:
+      213: 2394010300144891975
+    second: easy UI emerald - default_411
+  - first:
+      213: 4008873920056415102
+    second: easy UI emerald - default_412
+  - first:
+      213: -8252610694325362540
+    second: easy UI emerald - default_413
+  - first:
+      213: 5643543561411904841
+    second: easy UI emerald - default_414
+  - first:
+      213: -972692036119238570
+    second: easy UI emerald - default_415
+  - first:
+      213: 6222959852582560977
+    second: easy UI emerald - default_416
+  - first:
+      213: 7141524618462427905
+    second: easy UI emerald - default_417
+  - first:
+      213: -6742063625979249977
+    second: easy UI emerald - default_418
+  - first:
+      213: -7180959877572884665
+    second: easy UI emerald - default_419
+  - first:
+      213: -8398970459762635742
+    second: easy UI emerald - default_420
+  - first:
+      213: -6352061192424134132
+    second: easy UI emerald - default_421
+  - first:
+      213: -3817027051589405243
+    second: easy UI emerald - default_422
+  - first:
+      213: 3456116135049626860
+    second: easy UI emerald - default_423
+  - first:
+      213: -5151637942872280201
+    second: easy UI emerald - default_424
+  - first:
+      213: 696002985496900992
+    second: easy UI emerald - default_425
+  - first:
+      213: 1260151938760540481
+    second: easy UI emerald - default_426
+  - first:
+      213: 1788070018672170534
+    second: easy UI emerald - default_427
+  - first:
+      213: 2178979495842197407
+    second: easy UI emerald - default_428
+  - first:
+      213: 6112482642385822802
+    second: easy UI emerald - default_429
+  - first:
+      213: 2855847736984986944
+    second: easy UI emerald - default_430
+  - first:
+      213: -6831266815086775829
+    second: easy UI emerald - default_431
+  - first:
+      213: -3764298740004467585
+    second: easy UI emerald - default_432
+  - first:
+      213: -1544786291134334885
+    second: easy UI emerald - default_433
+  - first:
+      213: 6493479637223604798
+    second: easy UI emerald - default_434
+  - first:
+      213: 3137794897287628165
+    second: easy UI emerald - default_435
+  - first:
+      213: 8979442515881616949
+    second: easy UI emerald - default_436
+  - first:
+      213: -3074133629118751886
+    second: easy UI emerald - default_437
+  - first:
+      213: 8475133616537917700
+    second: easy UI emerald - default_438
+  - first:
+      213: 4512551428194096449
+    second: easy UI emerald - default_439
+  - first:
+      213: 3354553517971560951
+    second: easy UI emerald - default_440
+  - first:
+      213: -3883827118551439247
+    second: easy UI emerald - default_441
+  - first:
+      213: 382341631532165213
+    second: easy UI emerald - default_442
+  - first:
+      213: 6649781162766000570
+    second: easy UI emerald - default_443
+  - first:
+      213: 2442519473798172893
+    second: easy UI emerald - default_444
+  - first:
+      213: -660500858281880512
+    second: easy UI emerald - default_445
+  - first:
+      213: 6127126823500089412
+    second: easy UI emerald - default_446
+  - first:
+      213: 4646580728099983624
+    second: easy UI emerald - default_447
+  - first:
+      213: 4772886129949374061
+    second: easy UI emerald - default_448
+  - first:
+      213: -4728058404148616633
+    second: easy UI emerald - default_449
+  - first:
+      213: 5531717324192914119
+    second: easy UI emerald - default_450
+  - first:
+      213: -2198594303957303066
+    second: easy UI emerald - default_451
+  - first:
+      213: -52557550626711956
+    second: easy UI emerald - default_452
+  - first:
+      213: 6465533496059634089
+    second: easy UI emerald - default_453
+  - first:
+      213: -3639405699561839888
+    second: easy UI emerald - default_454
+  - first:
+      213: 7279150768452004652
+    second: easy UI emerald - default_455
+  - first:
+      213: -9109908879476673882
+    second: easy UI emerald - default_456
+  - first:
+      213: 2321915528066477955
+    second: easy UI emerald - default_457
+  - first:
+      213: 2364112864314767654
+    second: easy UI emerald - default_458
+  - first:
+      213: 5654556088484942063
+    second: easy UI emerald - default_459
+  - first:
+      213: 8002816591127566476
+    second: easy UI emerald - default_460
+  - first:
+      213: -7537375090969418410
+    second: easy UI emerald - default_461
+  - first:
+      213: 1904000571028295282
+    second: easy UI emerald - default_462
+  - first:
+      213: -6009562824133007558
+    second: easy UI emerald - default_463
+  - first:
+      213: -614983210455844604
+    second: easy UI emerald - default_464
+  - first:
+      213: 414261764452172076
+    second: easy UI emerald - default_465
+  - first:
+      213: -4997742823527383365
+    second: easy UI emerald - default_466
+  - first:
+      213: -1188554828479938437
+    second: easy UI emerald - default_467
+  - first:
+      213: 879793900834339262
+    second: easy UI emerald - default_468
+  - first:
+      213: 7145686264991381806
+    second: easy UI emerald - default_469
+  - first:
+      213: 5064193293470975726
+    second: easy UI emerald - default_470
+  - first:
+      213: 5478413790893000759
+    second: easy UI emerald - default_471
+  - first:
+      213: -2793562343498210216
+    second: easy UI emerald - default_472
+  - first:
+      213: -4764501080078102513
+    second: easy UI emerald - default_473
+  - first:
+      213: 4209028567555779118
+    second: easy UI emerald - default_474
+  - first:
+      213: 4674043906298946642
+    second: easy UI emerald - default_475
+  - first:
+      213: -17580638681727272
+    second: easy UI emerald - default_476
+  - first:
+      213: -2171832867470370978
+    second: easy UI emerald - default_477
+  - first:
+      213: -4624659261749868406
+    second: easy UI emerald - default_478
+  - first:
+      213: -2903146055023375844
+    second: easy UI emerald - default_479
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

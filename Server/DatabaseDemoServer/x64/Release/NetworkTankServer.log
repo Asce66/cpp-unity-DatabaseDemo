@@ -1,0 +1,39 @@
+﻿D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(NetworkTankServer.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  DBManager.cpp
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(35,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(49,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(88,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(101,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(117,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(133,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(149,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(167,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(182,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(198,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(214,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(229,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(243,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(258,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(272,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(304,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(321,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(396,22): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(409,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(444,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\DBManager.cpp(478,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\Handler.h(174,1): warning C4102: “std”: 未引用的标签
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\ProtobufParser.h(111,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\Handler.h(42): message : 查看对正在编译的函数 模板 实例化“char *ProtobufParser::Encode<Protocol::S2CLogin>(ProtoID,T,int &)”的引用
+          with
+          [
+              T=Protocol::S2CLogin
+          ]
+D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\ProtobufParser.h(112,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  1 of 5515 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    34 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  NetworkTankServer.vcxproj -> D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\DatabaseDemoServer\..\..\Release\Server\DatabaseDemoServer.exe

@@ -1,0 +1,203 @@
+syntax="proto3";
+package Protocol;
+
+message Department{
+	string name=1;
+	string BMH=2;
+}
+message C2SDepartment
+{
+	int32 request=1;
+}
+message S2CDepartment
+{
+	repeated Department departmentList=1;
+}
+message C2SAddDepartment{
+	repeated Department departmentList=1;
+}
+message UpdateDepartment
+{
+	Department department=1;
+	string oldBH=2;
+}
+message C2SUpdateDepartment{
+	repeated UpdateDepartment departmentList=1;
+}
+message C2SDeleteDepartment{
+	repeated string bhList=1;
+}
+
+message Book{
+	string name=1;
+	string time=2;
+	string BH=3;
+	float price=4;
+}
+message C2SBook
+{	
+	int32 request=1;
+}
+message S2CBook
+{
+	repeated Book bookList=1;
+}
+message C2SAddBooks
+{
+	 repeated Book bookList=1;
+}
+message C2SDeleteBooks
+{
+	repeated string bhList=1;
+}
+message UpdateBook
+{
+	string oldBH=1;
+	Book book=2;
+}
+message C2SUpdateBooks
+{
+	repeated UpdateBook bookList=1;
+}
+message YanTao{
+	string name=1;
+	string content=2;
+	string time=3;
+	string address=4;
+}
+message C2SYanTao
+{
+	int32 request=1;
+}
+message S2CYanTao
+{
+	repeated YanTao yanTaoList=1;
+}
+
+message C2SAddYanTao{
+	repeated YanTao yanTaoList=1;
+}
+message UpdateYanTao
+{
+	YanTao yantao=1;
+	string oldName=2;
+}
+message C2SUpdateYanTao{
+	repeated UpdateYanTao yanTaoList=1;
+}
+message C2SDeleteYanTao{
+	repeated string name=1;
+}
+
+message WeiWen{
+	string name=1;
+	string time=2;
+	string address=3;
+}
+message C2SWeiWen
+{
+	int32 request=1;
+}
+message S2CWeiWen
+{
+	repeated WeiWen weiWenList=1;
+}
+message C2SAddWeiWen
+{
+	repeated WeiWen weiWenList=1;
+}
+message UpdateWeiWen
+{
+	WeiWen weiwen=1;
+	string oldName=2;
+}
+message C2SUpdateWeiWen
+{
+	repeated UpdateWeiWen weiWenList=1;
+}
+message C2SDeleteWeiWen
+{
+	repeated string name=1;
+}
+message WriteBook{
+	string BBH=1;
+	string SBH=2;
+}
+
+message C2SWriteBook
+{
+	int32 request=1;
+}
+
+message S2CWriteBook
+{
+	repeated Book writeBookList=1;
+}
+message C2SSearchWriteBook
+{
+	int32 request=1;
+}
+message S2CSearchWriteBook
+{
+	repeated WriteBook writeBookList=1;
+}
+message C2SAddWriteBook{
+	repeated WriteBook writeBookList=1;
+}
+
+message DoYanTao{
+	string name=1;
+	string SBH=2;
+}
+message C2SDoYanTao
+{
+	int32 request=1;
+}
+message S2CDoYanTao
+{
+	repeated YanTao doYanTaoList=1;
+}
+message C2SSearchDoYanTao{
+	int32 request=1;
+}
+message S2CSearchDoYanTao{
+	repeated DoYanTao doYanTaoList=1;
+}
+message C2SAddDoYanTao{
+	repeated DoYanTao doYanTaoList=1;
+}
+message UpdateDoYanTao
+{	
+	DoYanTao yantao=1;
+	string oldName=2;
+}
+message C2SUpdateDoYanTao{
+	repeated UpdateDoYanTao yanTaoList=1;
+}
+message C2SDeleteDoYanTao
+{
+	repeated string name=1;
+}
+message DoWeiWen{
+	string name=1;
+	string SBH=2;
+}
+message C2SDoWeiWen
+{
+	int32 request=1;
+}
+message S2cDoWeiWen
+{
+	repeated WeiWen doWeiWenList=1;
+}
+message C2SSearchDoWeiwen
+{
+	int32 request=1;
+}
+message S2CSearchDoWeiwen{
+	repeated DoWeiWen doWeiWenList=1;
+}
+message C2SAddDoWeiWen
+{
+	repeated DoWeiWen doWeiWenList=1;
+}

@@ -1,0 +1,53 @@
+syntax="proto3";
+package Protocol;
+message C2SLogin{
+	string account=1;
+	string password=2;
+}
+
+message S2CLogin{
+	string account=1;
+	string password=2;
+	int32 result=3;
+}
+message C2SRegister{
+	string account=1;
+	string password=2;
+}
+message S2CRegister{
+	int32 result=1;
+}
+
+message Writer{
+	string name=1;
+	string sex=2;
+	string BH=3;
+	string birth=4;
+	string BMH=5;
+}
+message UpdateWriter
+{
+	string oldBH=1;
+	Writer writer=2;
+}
+message C2SWriter{
+	int32 request=1;
+}
+
+message S2CWriter{
+	repeated Writer writerList=1;
+}
+message C2SAddWriters{
+	repeated Writer writerList=1;
+}
+message S2CAddWriters{
+	int32 result=1;
+}
+message C2SDeleteWriters
+{
+	repeated string writerList=1;
+}
+message C2SUpdateWriters
+{
+	repeated UpdateWriter writerList=1;
+}
