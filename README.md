@@ -23,21 +23,21 @@
 
 
 
-![image-20201110125755029](https://i.loli.net/2020/11/10/fBDwYxNVtOlPQRT.png)
+![image-20201110125755029](https://i.loli.net/2020/11/10/KQ9RgArIbxPvdap.png)
 
 
 
-<img src="https://i.loli.net/2020/11/10/nAF49DPGwHIR83a.png" alt="image-20201110125933843" style="zoom:67%;" />
+<img src="https://i.loli.net/2020/11/10/tCs4avHw98rnJFP.png" alt="image-20201110125933843" style="zoom:67%;" />
 
 
 
-<img src="C:\Users\Asce\AppData\Roaming\Typora\typora-user-images\image-20201110130050417.png" alt="image-20201110130050417" style="zoom: 50%;" />
+<img src="https://i.loli.net/2020/11/10/L2Yb13cDdnJhQPt.png" alt="image-20201110130050417" style="zoom: 50%;" />
 
 
 
-<img src="C:\Users\Asce\AppData\Roaming\Typora\typora-user-images\image-20201110130123227.png" alt="image-20201110130123227" style="zoom:67%;" />
+<img src="https://i.loli.net/2020/11/10/shWNAGzva2Fy1wl.png" alt="image-20201110130123227" style="zoom:67%;" />
 
-<img src="C:\Users\Asce\AppData\Roaming\Typora\typora-user-images\image-20201110130159893.png" alt="image-20201110130159893" style="zoom: 50%;" />
+<img src="https://i.loli.net/2020/11/10/aVEp4W3LkoPBdZU.png" alt="image-20201110130159893" style="zoom: 50%;" />
 
 
 
@@ -48,7 +48,7 @@
 1. 下载并安装**Mysql数据库**[下载地址](https://dev.mysql.com/downloads/installer/)（PS:选择体积大的那个下载，小的是用于web的）
 2. 如果.exe的同级目录下没有这两个dll就在**C:\Program Files\MySQL\Connector C++ 8.0\lib64**下找到并复制过来
 
-![image-20201110124131832](https://i.loli.net/2020/11/10/meyNG4Aqv2ahD6t.png)
+![image-20201110124131832](https://i.loli.net/2020/11/10/GwVA2yhbgRX8WEY.png)
 
 3. 找到文件夹下的backup.sql文本，这是一个**备份**的Mysql数据库文件，使用它来恢复基本的数据库信息，用于服务端的数据库连接。Mysql如何进行数据备份和恢复可以看[这个](https://github.com/Asce66/MyNotes/blob/master/%E6%9D%82/Mysql.md)
 
@@ -62,4 +62,4 @@
 
 在物体组件上设置服务端的IP地址和端口号
 
-<img src="C:\Users\Asce\AppData\Roaming\Typora\typora-user-images\image-20201110130515789.png" alt="image-20201110130515789" style="zoom: 67%;" />
+<img src="https://i.loli.net/2020/11/10/iqLvhWS9MYTjxyA.png" alt="image-20201110130515789" style="zoom: 67%;" />
