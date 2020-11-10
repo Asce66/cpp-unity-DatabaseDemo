@@ -88,8 +88,8 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
-    <IncludePath>D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\Serverlib-3.11.4\include;D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\Serverlib-3.11.4\include\mysql;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\Serverlib-3.11.4\lib;D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\Serverlib-3.11.4\lib\lib64;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\Serverlib-3.11.4\include;C:\Program Files\MySQL\MySQL Server 8.0\include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\my_Unity3D\The Knowledge Projects\DatabaseDemo\Server\Serverlib-3.11.4\lib;C:\Program Files\MySQL\Connector C++ 8.0\lib64;$(LibraryPath)</LibraryPath>
     <OutDir>..\..\Release\Server</OutDir>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
